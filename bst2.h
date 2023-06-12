@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+#define max_line 100
+#define max_usr 100
 
 // Estructura para usuarios
 typedef struct u {
